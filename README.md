@@ -1,8 +1,6 @@
-
-
 <h1 align="center">Hi 👋, I'm IBRAHIM</h1>
 <h3 align="center">A passionate python programmer..</h3>
-
+<img aign "right"alt ="coding"width = "400" sre ="Gifs>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syed-ibrahim-shah&label=Profile%20views&color=0e75b6&style=flat" alt="syed-ibrahim-shah" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syed-ibrahim-shah" alt="syed-ibrahim-shah" /></a> </p>
