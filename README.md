@@ -37,11 +37,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/plz reach linkedin"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="plz reach linkedin" /></a><a href="https://ko-fi.com/Syed Ibrahim shah"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Syed Ibrahim shah" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=syed-ibrahim-shah&show_icons=true&locale=en&layout=compact" alt="syed-ibrahim-shah" /></p>
+<h3 align="left">Support:</h3><p><a href="https://www.buymeacoffee.com/plz reach linkedin"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="plz reach linkedin" /></a><a href="https://ko-fi.com/Syed Ibrahim shah"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Syed Ibrahim shah" /></a></p><br><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syed-ibrahim-shah&show_icons=true&locale=en" alt="syed-ibrahim-shah" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syed-ibrahim-shah&" alt="syed-ibrahim-shah" /></p>
+
