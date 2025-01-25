@@ -19,7 +19,7 @@
 
 - 💬 Ask me anything about **Python, NumPy, Pandas, and SQL**!
 
-- 📫 You can reach me on YouTube: **[My YouTube Channel](https://www.youtube.com/@SyedIbrahim)**
+- 📫 You can reach me on YouTube: **[My YouTube Channel](https://www.youtube.com/@devil-art-6)**
 
 - 📄 Learn more about my experiences [here](https://github.com/Syed-Ibrahim-12?tab=overview&from=2024-07-01&to=2024-07-31).
 
