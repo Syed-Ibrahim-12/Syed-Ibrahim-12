@@ -18,7 +18,7 @@
 * 💬 Ask me anything about **Python, NumPy, Pandas, and SQL**!
 * 📫 You can reach me on YouTube: **[My YouTube Channel](https://www.youtube.com/@devil-art-6)**
 * 📄 Learn more about my experiences [here](https://github.com/Syed-Ibrahim-12?tab=overview&from=2024-07-01&to=2024-07-31).
-*⚡ Fun fact: **Tell me about your experience! I'm always eager to learn.**
+* ⚡ Fun fact: **Tell me about your experience! I'm always eager to learn.**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/syed-ibrahim-shah" target="blank"<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed-ibrahim-shah" height="30" width="40" /></a>
