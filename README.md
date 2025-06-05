@@ -50,5 +50,3 @@
 <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Syed Ibrahim Shah" />
 </a></p><br><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syed-ibrahim-shah&show_icons=true&locale=en" alt="syed-ibrahim-shah" /></p>
-
-
