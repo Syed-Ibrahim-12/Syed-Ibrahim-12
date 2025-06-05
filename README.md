@@ -1,4 +1,4 @@
-<h1 align="center">ASALAM-O-ALAIKUM 👋, IT'S SYED IBRAHIM SHAH'S LAB </h1>
+<h1 align="center">WELCOME 👋, IT'S SYED IBRAHIM SHAH'S LAB </h1>
 <h3 align="center">A passionate Python programmer and aspiring Data Engineer</h3>
 <img align="center" alt="coding" width="100%" src="https://github.com/user-attachments/assets/7021936f-ce43-454f-a30d-43567ac22a62">
 <p align="left">
