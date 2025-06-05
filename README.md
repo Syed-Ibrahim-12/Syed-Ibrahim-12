@@ -11,11 +11,11 @@
 <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a>
 </p>
 
-* 🔭 I’m currently working on a few exciting projects, including a **"Data Insights Dashboard"**.
-* 🌱 I’m currently learning **NumPy** online and diving into SQL.
+* 🔭 I’m currently working on a few exciting projects, INCLUDES **"AIRFLOW , SNOWFLAKE"**.
+* 🌱 I’m currently learning **" SQL , SNOWFLAKE "** online and diving into SSMS.
 * 👨‍💻 All of my projects are available at [My GitHub Projects](https://github.com/Syed-Ibrahim-12?tab=overview&from=2024-07-01&to=2024-07-31)
-* 📝 I regularly write articles on different libraries. Check them out [here](https://github.com/Syed-Ibrahim-12/SMIT9-12).
-* 💬 Ask me anything about **Python, NumPy, Pandas, and SQL**!
+* 📝 I have hands on practice of AWS.
+* 💬 Ask me anything about **"PYTHON , NUMPY, PANDAS, SNOWFLAKE , AWS , SQL "**!
 * 📫 You can reach me on YouTube: **[My YouTube Channel](https://www.youtube.com/@devil-art-6)**
 * 📄 Learn more about my experiences [here](https://github.com/Syed-Ibrahim-12?tab=overview&from=2024-07-01&to=2024-07-31).
 * ⚡ Fun fact: **Tell me about your experience! I'm always eager to learn.**
