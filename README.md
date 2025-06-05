@@ -1,7 +1,7 @@
 <h1 align="center">WELCOME 👋, IT'S SYED IBRAHIM SHAH'S LAB </h1>
 <h3 align="center">A passionate Python programmer and aspiring Data Engineer</h3>
 
-<img align="center" alt="coding" width="100%" height="500" src="https://github.com/user-attachments/assets/7021936f-ce43-454f-a30d-43567ac22a62">
+<img align="center" alt="coding" width="100%" height="500px" src="https://github.com/user-attachments/assets/7021936f-ce43-454f-a30d-43567ac22a62" />
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=syed-ibrahim-shah&label=Profile%20views&color=0e75b6&style=flat" alt="syed-ibrahim-shah" />
@@ -22,8 +22,7 @@
 - 🔭 I’m currently working on a few exciting projects, INCLUDES **"AIRFLOW , SNOWFLAKE"**.  
 - 🌱 I’m currently learning **" SQL , SNOWFLAKE "** online and diving into SSMS.  
 - 👨‍💻 All of my projects are available at [My GitHub Projects](https://github.com/Syed-Ibrahim-12?tab=overview&from=2024-07-01&to=2024-07-31)  
-- 📝 I have hands on practice of AWS.  
-- 💬 Ask me anything about **"PYTHON , NUMPY, PANDAS, SNOWFLAKE , AWS , SQL "**!  
+- 💬 Ask me anything about **"PYTHON , NUMPY, PANDAS, SNOWFLAKE , SQL "**!  
 - 📫 You can reach me on YouTube: **[My YouTube Channel](https://www.youtube.com/@devil-art-6)**  
 - 📄 Learn more about my experiences [here](https://github.com/Syed-Ibrahim-12?tab=overview&from=2024-07-01&to=2024-07-31).  
 - ⚡ Fun fact: **Tell me about your experience! I'm always eager to learn.**
@@ -61,9 +60,6 @@
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
   </a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>
-  </a>
   <a href="https://www.snowflake.com/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/1961952?s=200&v=4" alt="snowflake" width="40" height="40"/>
   </a>
@@ -79,6 +75,6 @@
   </a>
 </p><br><br>
 
-<p>
+<p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=syed-ibrahim-shah&show_icons=true&locale=en" alt="syed-ibrahim-shah" />
 </p>
